@@ -1,0 +1,15 @@
+<resources>
+    <string name="master_pass_key">master</string>
+    <string name="shared_pref">sharedPref</string>
+    <string name="data_entry_key">dataEntry</string>
+    <string name="app_name">Secure Diary</string>
+    <string name="master_password">Enter master password</string>
+    <string name="save">Save</string>
+    <string name="empty_list_msg">No saved items found. Click on \"+\" button to add.</string>
+    <string name="new_item_title">Enter title of new item:</string>
+    <string name="new_item_data">Enter data of new item:</string>
+    <string name="new_item_password">Select password:</string>
+    <string name="default_password">Default</string>
+    <string name="custom_password">Custom</string>
+    <string name="custom_pass_hint">Enter custom password</string>
+</resources>
